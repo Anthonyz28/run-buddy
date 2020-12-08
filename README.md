@@ -12,3 +12,5 @@ Http://anthonyz28.github.io/run-buddy/
 
 ## Contribution
 Made with ❤️ by Anthony Martinez
+
+## @2019 Run Buddy, Inc
