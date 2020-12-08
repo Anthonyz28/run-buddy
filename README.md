@@ -8,7 +8,7 @@ A website that offers fitness training services
 *CSS
 
 ## Website
-Http://anthony.io/run-buddy/
+Http://anthonyz28.io/run-buddy/
 
 ## Contribution
 Made with ❤️ by Anthony Martinez
